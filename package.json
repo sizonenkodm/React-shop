@@ -1,5 +1,6 @@
 {
   "name": "react-shop",
+  "homepage": "https://sizonenkodm.github.io/React-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
