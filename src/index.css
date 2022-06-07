@@ -52,6 +52,17 @@ nav {
   }
 }
 
+@media (max-width: 767px) {
+  .collection-item {
+    font-size: 11px;
+  }
+
+  .collection-item button:not(.btn-small) {
+    width: 21px;
+    height: 21px;
+  }
+}
+
 .modal {
   position: fixed;
   left: 0;
